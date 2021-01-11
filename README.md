@@ -1,9 +1,9 @@
 # FundamentalsOfCg_4th-Translation
-##2021年第一个flag是这么立起来的：
+## 2021年第一个flag是这么立起来的：
 
 **what:**	翻译图形学虎书：《Fundamentals of Computer Graphics》4th edition 前20章（共26章）
 
-**who:**	me & anyone interests
+**who:**	        me & anyone interests
 
 **where:**	here or everywhere
 
@@ -17,11 +17,11 @@
 	3.这本书国内一直没有中文版，很多人会推荐看别的中文版的类似书目，但都说如能啃的动，首啃这本
 	4.之前翻译过一些小册子，底子还行，也是这么多年对英语的兴趣使然
 
-**how long:**主要章节（1-20章）：半年，可能时间有点紧张，不过紧张点好
+**how long:** 主要章节（1-20章）：半年，可能时间有点紧张，不过紧张点好
 
-**how much:**搬砖以外，比如午饭后，晚饭，下班后。。。
+**how much:** 搬砖以外，比如午饭后，晚饭，下班后。。。
 
-###最后，希望有类似想法或兴趣的同学一起翻译、讨论、提高。qq:36249617    邮箱:kathw1844@126.com
+### 最后，希望有类似想法或兴趣的同学一起翻译、讨论、提高。qq:36249617    邮箱:kathw1844@126.com
 
 ## 翻译后格式
 准备用MarkDown写，格式图片编辑起来方便简洁
